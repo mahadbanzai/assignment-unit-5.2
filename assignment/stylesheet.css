@@ -1,0 +1,17 @@
+header{
+    background-color: rgb(74, 9, 9);
+    text-align: center;
+}
+h1, h2{
+    color:rgb(107, 210, 210);
+}
+main{
+    background-color: lightgray;
+    padding: 1em;
+}
+body{
+    margin: 0;
+    background-image: url(record.png);
+    background-repeat:round;
+    background-size:auto
+  }
